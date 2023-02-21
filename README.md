@@ -1,2 +1,2 @@
 # library-graphQL
-A simple book/author API with GraphQL, Express and JavaScript.
+A very simple book/author API with GraphQL and Express to practice with JavaScript 
